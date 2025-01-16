@@ -6,6 +6,7 @@
 //Begin Program
 async function startProgram() {
 
+/*
 
 //Start & Say Start
 //Bolt will say Start across the LED's & Say it out loud
@@ -37,6 +38,20 @@ async function startProgram() {
 //Navigator: Mr. Lange
 
 
+
+
+
+//Figure Eight
+//Driver: Mr. Lange
+//Navigator: Mr. Payton
+  
+
+
+*/
+
+//Star
+//Driver: Mr. Payton
+//Navigator: Mr. Lange
 
 
 //End Program
