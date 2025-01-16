@@ -3,8 +3,12 @@
 //Program: Pre-Competition
 //Hardware: Bolt #SB-6B78
 
-//Start
-//Bolt will say Start acrossed the LED's
+//Begin Program
+async function startProgram() {
+
+
+//Start & Say Start
+//Bolt will say Start across the LED's & Say it out loud
 //Driver: Mr. Lange
 //Navigator: Mr. Payton
 
@@ -31,3 +35,9 @@
 //Play Sound
 //Driver: Mr. Payton
 //Navigator: Mr. Lange
+
+
+
+
+//End Program
+}
